@@ -1,0 +1,14 @@
+boat
+buoy
+sail
+person
+kayak
+motor_sail
+ferry
+vessel
+zodiac
+fishing_boat
+OFNI
+kite
+windsurf
+surfboard
